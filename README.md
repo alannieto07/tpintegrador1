@@ -1,5 +1,7 @@
-# tpintegrador1, landing page hecha para un trabajo practico!
-tecnologías: html,css(Bootstrap).  
+# tpintegrador1, 
+-landing page hecha para un trabajo practico!
+
+-tecnologías: html,css(Bootstrap).  
 
 ![Captura de pantalla (268)](https://github.com/alannieto07/tpintegrador1/assets/110429020/e6f1bfb5-97ad-4aa7-8c02-dcf40035078a)
 
